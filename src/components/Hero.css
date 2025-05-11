@@ -6,7 +6,8 @@
   align-items: center;
   text-align: center;
   padding: 0 2rem;
-  background: url('./background.jpg') center/cover;
+  background: linear-gradient(135deg, #2b5876, #4e4376);
+  /* background: url('./background.jpg') center/cover; */
   color: white;
   position: relative;
 }
